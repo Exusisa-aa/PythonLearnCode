@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="daa16921-1eb6-428a-9cb9-28335bba30b4" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../ChatModels/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmbeddingsModels/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LLMs/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/余弦相似度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chain/JsonOutputParser/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chain/RunnableLambda/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chain/StrOutputParser/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chain/basis/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../提示词模板/ChatPromptTemplate/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../提示词模板/PromptTemplate, FewShotPromptTemplate/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OpenAI/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../train/RUOD/vedio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../train/cutfps.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3Iybh3hPAbftV1NpgDkXOxIMgjn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "last_opened_file_path": "K:/study/Python/studyCode/Langchain/RAG",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="daa16921-1eb6-428a-9cb9-28335bba30b4" name="更改" comment="" />
+      <created>1788739870317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788739870317</updated>
+      <workItem from="1788739871462" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -9,7 +9,7 @@ if __name__ == '__main__':
     #定义表头
     header = ['电影名', '年份', '上映时间', '类型', '时长', '评分', '语言', '导演', '作者', '主演', 'Slogan', '简介']
     # 创建csv文件
-    with open("csv_data/tmdb.csv", "w", encoding="UTF-8", newline="") as f:
+    with open("csv_data/tmdb1.csv", "w", encoding="UTF-8", newline="") as f:
         # 创建操作的csv文件对象，并指定文件对象和表头列表
         writer = csv.DictWriter(f, fieldnames=header)
         # 写入表头

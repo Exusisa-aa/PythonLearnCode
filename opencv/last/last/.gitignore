@@ -1,0 +1,13 @@
+# 凭据：绝不提交
+.env
+# 控制台应用截图，图里能看到 API Key / Secret Key
+api.png
+
+# 本地数据库与注册照片
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

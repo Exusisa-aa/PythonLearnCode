@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49fb6bb6-0eea-41c1-8f6e-99fa3522aa03" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Langchain/ChatModels/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/EmbeddingsModels/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/LLMs/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/Loader/csvLoader/csvLoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/Loader/csvLoader/tmdb.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/Loader/jsonLoader/jsonLoader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/Loader/jsonLoader/tset.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/Loader/pdfLoader/pypdfLoader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/Loader/textLoader/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/Loader/textLoader/textLoader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/Memory/temporary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/Memory/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/RAG库检索并搭建提示词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/RAG库的搭建.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/RAG检索入链之RunnablePassthrough.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/csv/tmdb.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/余弦相似度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/RAG服务大致流程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/agent/agent大致流程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/config/agent.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/config/chroma.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/config/prompts.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/config/rag.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/md5去重入库服务大致流程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/model/factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/prompts/main_prompt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/prompts/rag_summarize.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/prompts/report_prompt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/tools/middleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/tools/rag_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/utils/config_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/utils/file_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/utils/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/utils/path_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/utils/prompt_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/RAG/大致流程/向量库服务大致流程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/agent/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/agent/生命周期.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/chain/JsonOutputParser/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/chain/RunnableLambda/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/chain/StrOutputParser/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/chain/basis/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/final/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/final/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/提示词模板/ChatPromptTemplate/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Langchain/提示词模板/PromptTemplate, FewShotPromptTemplate/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OpenAI/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../basic/regexClasswork.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../robots/classwork1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../robots/classwork2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../train/RUOD/vedio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../train/cutfps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../robots/tmdb.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../robots/tmdb.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3JyoRCHRV5LeSbuw32NQPtGHuzv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.app (1).executor": "Run",
+    "Python.app.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "K:/study/Python/studyCode/opencv/last/pic/zhen",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\study\Python\studyCode\opencv\last\pic\zhen" />
+      <recent name="K:\study\Python\studyCode\opencv\last\pic" />
+      <recent name="K:\study\Python\studyCode\opencv\last" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\study\Python\studyCode\opencv\last\pic\chen" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="last" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/last" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/last/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="49fb6bb6-0eea-41c1-8f6e-99fa3522aa03" name="更改" comment="" />
+      <created>1790642660969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790642660969</updated>
+      <workItem from="1790642662467" duration="507000" />
+      <workItem from="1790643267364" duration="2484000" />
+      <workItem from="1790679520375" duration="2041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/last$app.coverage" NAME="app 覆盖结果" MODIFIED="1790688027415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/last$app__1_.coverage" NAME="app 覆盖结果" MODIFIED="1790688110917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/last" />
+  </component>
+</project>

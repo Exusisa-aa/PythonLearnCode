@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-ollama
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+pydantic-settings
+python-dotenv

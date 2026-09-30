@@ -1,0 +1,2 @@
+chat_model: deepseek-r1:14b
+tool_model: qwen3-max

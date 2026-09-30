@@ -1,0 +1,32 @@
+:root {
+  --sidebar-bg: #1f2430;
+  --sidebar-hover: #2a3040;
+  --sidebar-text: #cbd0dc;
+  --accent: #4f7cff;
+  --bg: #f5f6f8;
+  --bubble-user: #4f7cff;
+  --bubble-user-text: #ffffff;
+  --bubble-assistant: #ffffff;
+  --text: #1f2430;
+  --muted: #8a91a3;
+  --danger: #e5484d;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC',
+    'Microsoft YaHei', sans-serif;
+  color: var(--text);
+  background: var(--bg);
+}

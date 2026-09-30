@@ -1,0 +1,2 @@
+persist_directory: K:\study\Python\studyCode\Langchain\RAG\chromadb
+collection_name: movie
